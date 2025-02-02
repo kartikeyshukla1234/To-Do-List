@@ -1,1 +1,3 @@
 # To-Do-List
+
+This To-Do List application allows users to efficiently manage their tasks by adding, marking as completed, or removing them as necessary. With a simple and intuitive interface, it offers an easy way to stay organized. Tasks are securely stored in the backend, ensuring they remain even after refreshing the page, providing a seamless and persistent experience. Whether you’re tracking work tasks, personal goals, or daily routines, this app helps you stay on top of everything. With a reliable system that saves your progress, it ensures your to-do list is always up to date, no matter when you access it.
